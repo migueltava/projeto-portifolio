@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.cabeca {
+  display: flex;
+
+  padding: 50px;
+  margin: 0px;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  background-color: black;
+}
+.produtos {
+  background-color: #a20808;
+  padding: 00px;
+  margin: px;
+}
+.img {
+  object-fit: cover;
+  width: 100%;
+}
